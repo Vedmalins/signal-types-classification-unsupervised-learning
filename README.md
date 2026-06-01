@@ -171,7 +171,7 @@ https://colab.research.google.com/drive/1snYt7O3xyUh4WkH0w-BAoG9phoQc2FNj?usp=sh
 ```text
 .
 ├── Final_ML_proj.ipynb
-├── submission.csv
+├── final_submission.csv
 └── README.md
 ```
 
@@ -217,4 +217,4 @@ https://www.kaggle.com/competitions/signal-types-classification
 
 **Сессионный проект**
 
-2025
+2026
